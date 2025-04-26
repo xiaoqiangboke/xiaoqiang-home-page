@@ -1,14 +1,14 @@
 const config = {
   //网页元数据
   metaData:{
-    title: 'Leleo的个人主页🎉',
-    description: '欢迎来到Leleo的奇妙世界！',
-    keywords: 'Leleo,leleo,个人主页,个人网站',
+    title: '你还是那么漂亮没变的个人主页🎉',
+    description: '欢迎来到你还是那么漂亮没变的奇妙世界！',
+    keywords: 'LVOE,你还是那么漂亮没变,个人主页,个人网站',
     icon: '/favicon.ico'   //网页图标，支持外链
   },
 
   avatar: "/img/avatar.jpg", // 头像
-  welcometitle: "Hi, I'm Leleo", // 标题
+  welcometitle: "Hi, 欢迎大家来到你还是那么漂亮没变的博客网站", // 标题
 
   // 颜色配置
   color: {
@@ -51,8 +51,8 @@ const config = {
 
   //社交按钮
   socialPlatformIcons: [
-    {icon:"mdi-github",link:"https://www.github.com/leleo886"},
-    {icon:"mdi-email",link:"mailto:leleo886@foxmail.com"},
+    {icon:"mdi-github",link:"https://www.github.com/"},
+    {icon:"mdi-email",link:"mailto:1473226481@qq.com"},
     {icon:"mdi-qqchat",link:"https://im.qq.com/"},
     {icon:"mdi-wechat",link:"https://wx.qq.com/"},
     {icon:"mdi-youtube",link:"https://www.youtube.com"},
@@ -88,6 +88,18 @@ const config = {
       {"title":"jgnIKMpd","preview":"https://file.uhsea.com/2503/5d4d35ed1c286afc930184231456edc9BR.png","url":"https://file.uhsea.com/2503/3bf8025d8ad7ccefcf7e72c9368a245cLL.png"},
       {"title":"mgqyySeh","preview":"https://file.uhsea.com/2503/38994dc4ef8659067537a3ea11af0927KB.png","url":"https://file.uhsea.com/2503/6e3b14778e879234826b9d5c793474ffOS.png"},
       {"title":"dSXZfZp","preview":"https://file.uhsea.com/2503/22c27ea8c1e44209a223a28026146115LS.png","url":"https://file.uhsea.com/2503/8d1203a01e7a5a639caf91ca6c9608acVL.png"},
+      {"title":"纪姿含1","preview":"/img/wallpaper/static/纪姿含1/image-pre.webp","url":"/img/wallpaper/static/纪姿含1/image.png"},
+      {"title":"纪姿含2","preview":"/img/wallpaper/static/纪姿含2/image-pre.webp","url":"/img/wallpaper/static/纪姿含2/image.png"},
+      {"title":"纪姿含3","preview":"/img/wallpaper/static/纪姿含3/image-pre.webp","url":"/img/wallpaper/static/纪姿含3/image.png"},
+      {"title":"纪姿含4","preview":"/img/wallpaper/static/纪姿含4/image-pre.webp","url":"/img/wallpaper/static/纪姿含4/image.png"},
+      {"title":"纪姿含5","preview":"/img/wallpaper/static/纪姿含5/image-pre.webp","url":"/img/wallpaper/static/纪姿含5/image.png"},
+      {"title":"纪姿含6","preview":"/img/wallpaper/static/纪姿含6/image-pre.webp","url":"/img/wallpaper/static/纪姿含6/image.png"},
+      {"title":"纪姿含7","preview":"/img/wallpaper/static/纪姿含7/image-pre.webp","url":"/img/wallpaper/static/纪姿含7/image.png"},
+      {"title":"纪姿含8","preview":"/img/wallpaper/static/纪姿含8/image-pre.webp","url":"/img/wallpaper/static/纪姿含8/image.png"},
+      {"title":"纪姿含9","preview":"/img/wallpaper/static/纪姿含9/image-pre.webp","url":"/img/wallpaper/static/纪姿含9/image.png"},
+      {"title":"纪姿含10","preview":"/img/wallpaper/static/纪姿含10/image-pre.webp","url":"/img/wallpaper/static/纪姿含10/image.png"},
+	  {"title":"纪姿含11","preview":"/img/wallpaper/static/纪姿含11/image-pre.webp","url":"/img/wallpaper/static/纪姿含11/image.png"},
+      {"title":"xiaoqiang","preview":"/img/wallpaper/static/xiaoqiang/image-pre.webp","url":"/img/wallpaper/static/xiaoqiang/image.png"},
       
     ],
     picMobile:[
@@ -95,6 +107,20 @@ const config = {
       {"title":"0002","preview":"/img/wallpaper/static-mobile/0002/image-pre.webp","url":"/img/wallpaper/static-mobile/0002/image.png"},
       {"title":"0003","preview":"/img/wallpaper/static-mobile/0003/image-pre.webp","url":"/img/wallpaper/static-mobile/0003/image.png"},
       {"title":"0004","preview":"/img/wallpaper/static-mobile/0004/image-pre.webp","url":"/img/wallpaper/static-mobile/0004/image.png"},
+	  {"title":"纪姿含0005","preview":"/img/wallpaper/static-mobile/纪姿含0005/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0005/image.png"},
+      {"title":"纪姿含0006","preview":"/img/wallpaper/static-mobile/纪姿含0006/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0006/image.png"},
+      {"title":"纪姿含0007","preview":"/img/wallpaper/static-mobile/纪姿含0007/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0007/image.png"},
+      {"title":"纪姿含0008","preview":"/img/wallpaper/static-mobile/纪姿含0008/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0008/image.png"},
+	  {"title":"纪姿含0009","preview":"/img/wallpaper/static-mobile/纪姿含0009/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0009/image.png"},
+      {"title":"纪姿含0010","preview":"/img/wallpaper/static-mobile/纪姿含0010/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0010/image.png"},
+      {"title":"纪姿含0011","preview":"/img/wallpaper/static-mobile/纪姿含0011/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0011/image.png"},
+      {"title":"纪姿含0012","preview":"/img/wallpaper/static-mobile/纪姿含0012/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0012/image.png"},
+	  {"title":"纪姿含0013","preview":"/img/wallpaper/static-mobile/纪姿含0013/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0013/image.png"},
+      {"title":"纪姿含0014","preview":"/img/wallpaper/static-mobile/纪姿含0014/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0014/image.png"},
+      {"title":"纪姿含0015","preview":"/img/wallpaper/static-mobile/纪姿含0015/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0015/image.png"},
+      {"title":"纪姿含0016","preview":"/img/wallpaper/static-mobile/纪姿含0016/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0016/image.png"},
+	  {"title":"纪姿含0017","preview":"/img/wallpaper/static-mobile/纪姿含0017/image-pre.webp","url":"/img/wallpaper/static-mobile/纪姿含0017/image.png"},
+      {"title":"dwzeijlrarg","preview":"/img/wallpaper/static-mobile/dwzeijlrarg/dwzeijlrarg-pre.webp","url":"/img/wallpaper/static-mobile/dwzeijlrarg/dwzeijlrarg.png"},
       {"title":"DfNHPPcc","preview":"https://file.uhsea.com/2503/e3510f4d0286e37b828f74494230f0efM2.png","url":"https://file.uhsea.com/2503/97b50adb3d4cd6f1a4132f6d3e8c98483T.png"},
       {"title":"WIOlrGSy","preview":"https://file.uhsea.com/2503/99162abfe07e18cfe6182ca3458561ef3A.png","url":"https://file.uhsea.com/2503/609532b992163117db9b341dde87b78f3C.png"},
       {"title":"cZZwzhis","preview":"https://file.uhsea.com/2503/cf558fa1989c07726778c60be47b9928K8.png","url":"https://file.uhsea.com/2503/e27b91f1604f73d0444c807024ef7c9fI3.png"},
@@ -110,6 +136,46 @@ const config = {
         "title":"向往航天的女孩",
         "preview":"/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane-pre.webm",
         "url":"/img/wallpaper/dynamic/向往航天的女孩/Toy-Aeroplane.webm"
+      },
+      {
+        "title":"纪姿含的视频1",
+        "preview":"/img/wallpaper/dynamic/纪姿含的视频1/jizihan520-Aeroplane-pre.webm",
+        "url":"/img/wallpaper/dynamic/纪姿含的视频1/jizihan520-Aeroplane.webm"
+	  },
+      {
+        "title":"纪姿含的视频2",
+        "preview":"/img/wallpaper/dynamic/纪姿含的视频2/jizihan520-Aeroplane-pre.webm",
+        "url":"/img/wallpaper/dynamic/纪姿含的视频2/jizihan520-Aeroplane.webm"
+	 },
+      {
+        "title":"纪姿含的视频3",
+        "preview":"/img/wallpaper/dynamic/纪姿含的视频3/jizihan520-Aeroplane-pre.webm",
+        "url":"/img/wallpaper/dynamic/纪姿含的视频3/jizihan520-Aeroplane.webm"
+	  },
+      {
+        "title":"纪姿含的视频4",
+        "preview":"/img/wallpaper/dynamic/纪姿含的视频4/jizihan520-Aeroplane-pre.webm",
+        "url":"/img/wallpaper/dynamic/纪姿含的视频4/jizihan520-Aeroplane.webm"
+	  },
+      {
+        "title":"纪姿含的视频5",
+        "preview":"/img/wallpaper/dynamic/纪姿含的视频5/jizihan520-Aeroplane-pre.webm",
+        "url":"/img/wallpaper/dynamic/纪姿含的视频5/jizihan520-Aeroplane.webm"
+	  },
+      {
+        "title":"纪姿含的视频6",
+        "preview":"/img/wallpaper/dynamic/纪姿含的视频6/jizihan520-Aeroplane-pre.webm",
+        "url":"/img/wallpaper/dynamic/纪姿含的视频6/jizihan520-Aeroplane.webm"
+	  },
+      {
+        "title":"纪姿含的视频7",
+        "preview":"/img/wallpaper/dynamic/纪姿含的视频7/jizihan520-Aeroplane-pre.webm",
+        "url":"/img/wallpaper/dynamic/纪姿含的视频7/jizihan520-Aeroplane.webm"
+	  },
+      {
+        "title":"纪姿含的视频8",
+        "preview":"/img/wallpaper/dynamic/纪姿含的视频8/jizihan520-Aeroplane-pre.webm",
+        "url":"/img/wallpaper/dynamic/纪姿含的视频8/jizihan520-Aeroplane.webm"
       },
     ],
     videoMobile:[
@@ -127,23 +193,74 @@ const config = {
         "title":"Doodle-小猫女仆降临",
         "preview":"/img/wallpaper/dynamic-mobile/Doodle-小猫女仆降临/d12-pre.mp4",
         "url":"/img/wallpaper/dynamic-mobile/Doodle-小猫女仆降临/d12.mp4"
+	  },
+      {
+        "title":"纪姿含jizihan1",
+        "preview":"/img/wallpaper/dynamic-mobile/纪姿含jizihan1jizihan1_town-pre.mp4",
+        "url":"/img/wallpaper/dynamic-mobile/纪姿含jizihan1/jizihan1_town.mp4",
+	  },
+      {
+        "title":"纪姿含jizihan2",
+        "preview":"/img/wallpaper/dynamic-mobile/纪姿含jizihan2/jizihan2_town-pre.mp4",
+        "url":"/img/wallpaper/dynamic-mobile/纪姿含jizihan2/jizihan2_town.mp4",
+	  },
+      {
+        "title":"纪姿含jizihan3",
+        "preview":"/img/wallpaper/dynamic-mobile/纪姿含jizihan9/jizihan3_town-pre.mp4",
+        "url":"/img/wallpaper/dynamic-mobile/纪姿含jizihan3/jizihan3_town.mp4",
+	  },
+      {
+        "title":"纪姿含jizihan4",
+        "preview":"/img/wallpaper/dynamic-mobile/纪姿含jizihan/jizihan4_town-pre.mp4",
+        "url":"/img/wallpaper/dynamic-mobile/纪姿含jizihan4/jizihan4_town.mp4",
+	  },
+      {
+        "title":"纪姿含jizihan5",
+        "preview":"/img/wallpaper/dynamic-mobile/纪姿含jizihan5/jizihan5_town-pre.mp4",
+        "url":"/img/wallpaper/dynamic-mobile/纪姿含jizihan5/jizihan5_town.mp4",
+	  },
+      {
+        "title":"纪姿含jizihan6",
+        "preview":"/img/wallpaper/dynamic-mobile/纪姿含jizihan6/jizihan6_town-pre.mp4",
+        "url":"/img/wallpaper/dynamic-mobile/纪姿含jizihan6/jizihan6_town.mp4",
+	  },
+      {
+        "title":"纪姿含jizihan7",
+        "preview":"/img/wallpaper/dynamic-mobile/纪姿含jizihan7/jizihan7_town-pre.mp4",
+        "url":"/img/wallpaper/dynamic-mobile/纪姿含jizihan7/jizihan7_town.mp4",
+	  },
+      {
+        "title":"纪姿含jizihan8",
+        "preview":"/img/wallpaper/dynamic-mobile/纪姿含jizihan8/jizihan8_town-pre.mp4",
+        "url":"/img/wallpaper/dynamic-mobile/纪姿含jizihan8/jizihan8_town.mp4",
+	  },
+      {
+        "title":"纪姿含jizihan9",
+        "preview":"/img/wallpaper/dynamic-mobile/纪姿含jizihan9/jizihan9_town-pre.mp4",
+        "url":"/img/wallpaper/dynamic-mobile/纪姿含jizihan9/jizihan9_town.mp4",
+	  },
+      {
+        "title":"纪姿含jizihan10",
+        "preview":"/img/wallpaper/dynamic-mobile/纪姿含jizihan10/jizihan10_town-pre.mp4",
+        "url":"/img/wallpaper/dynamic-mobile/纪姿含jizihan10/jizihan10_town.mp4"
       },
     ],
   },
 
   //项目卡片 其中 字段"show"控制初始卡片的text是否展开
   projectcards:[ 
-    {go:"🚀 前往",img:"/img/sunshine.jpg",title:"Project 1",subtitle:"1,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"🗂️ 前往",img:"/img/sunshine.jpg",title:"Project 2",subtitle:"2,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"📝 前往",img:"/img/sunshine.jpg",title:"Project 3",subtitle:"3,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"👍 前往",img:"/img/sunshine.jpg",title:"Project 4",subtitle:"4,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"🗃 前往",img:"/img/sunshine.jpg",title:"Project 5",subtitle:"5,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"🎨 前往",img:"/img/sunshine.jpg",title:"Project 6",subtitle:"6,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"💍 前往",img:"/img/sunshine.jpg",title:"Project 7",subtitle:"7,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
-    {go:"🔍 前往",img:"/img/sunshine.jpg",title:"Project 8",subtitle:"8,000 miles of wonder", text:"If you see this line, I've managed to get your attention.",url:"https://leleo.top",show:false},
+    {go:"🚀 前往",img:"/img/jizihan1.jpg",title:"纪姿含1",subtitle:"纪姿含照片", text:"If you see this line, I've managed to get your attention.",url:"https://ai.xiaoqiangboke.top",show:false},
+    {go:"🔍 前往",img:"/img/jizihan2.jpg",title:"纪姿含2",subtitle:"纪姿含照片", text:"If you see this line, I've managed to get your attention.",url:"https://ai.xiaoqiangboke.top",show:false},
+    {go:"📝 前往",img:"/img/jizihan3.jpg",title:"纪姿含3",subtitle:"纪姿含照片", text:"If you see this line, I've managed to get your attention.",url:"https://ai.xiaoqiangboke.top",show:false},
+    {go:"👍 前往",img:"/img/jizihan4.jpg",title:"纪姿含4",subtitle:"纪姿含照片", text:"If you see this line, I've managed to get your attention.",url:"https://ai.xiaoqiangboke.top",show:false},
+    {go:"🔍 前往",img:"/img/jizihan5.jpg",title:"纪姿含5",subtitle:"纪姿含照片", text:"If you see this line, I've managed to get your attention.",url:"https://ai.xiaoqiangboke.top",show:false},
+    {go:"🎨 前往",img:"/img/jizihan6.jpg",title:"纪姿含6",subtitle:"纪姿含照片", text:"If you see this line, I've managed to get your attention.",url:"https://ai.xiaoqiangboke.top",show:false},
+    {go:"💍 前往",img:"/img/jizihan7.jpg",title:"纪姿含7",subtitle:"纪姿含照片", text:"If you see this line, I've managed to get your attention.",url:"https://ai.xiaoqiangboke.top",show:false},
+    {go:"🔍 前往",img:"/img/jizihan8.jpg",title:"纪姿含8",subtitle:"纪姿含照片", text:"If you see this line, I've managed to get your attention.",url:"https://ai.xiaoqiangboke.top",show:false},
+	{go:"🚀 前往",img:"/img/jizihan9.jpg",title:"纪姿含9",subtitle:"纪姿含照片", text:"If you see this line, I've managed to get your attention.",url:"https://ai.xiaoqiangboke.top",show:false},
   ],
   
-  statement: ["备案号：XXICP备123456789号","Copyright © 2025 Leleo"],
+  statement: ["备案号：小强ICP备xiaoqiang号","Copyright © 2025 小强"],
 }
 
 export default config
